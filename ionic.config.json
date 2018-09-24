@@ -1,0 +1,7 @@
+{
+  "name": "jobb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
